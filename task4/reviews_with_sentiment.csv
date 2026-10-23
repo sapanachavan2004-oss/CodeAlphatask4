@@ -1,0 +1,13 @@
+review_id,review,rating,compound,sentiment
+1,"Amazing product, works perfectly!",5,0.8516,Positive
+2,"Terrible quality, broke in a day.",1,-0.7096,Negative
+3,"It is okay, nothing special.",3,-0.092,Negative
+4,"Love it, totally worth the price!",5,0.7707,Positive
+5,"Worst purchase ever, waste of money.",1,-0.7845,Negative
+6,Good value and fast delivery.,4,0.6486,Positive
+7,Not bad but the battery is weak.,3,-0.4451,Negative
+8,"Absolutely fantastic, highly recommend!",5,0.8043,Positive
+9,Poor packaging and late delivery.,2,-0.4767,Negative
+10,Decent product for the price.,3,0.0,Neutral
+11,"Superb sound quality, very happy.",5,0.8439,Positive
+12,"Stopped working after a week, disappointed.",1,-0.6124,Negative
